@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AROne_Scene.unity
+    guid: 00e16c43deede0a4d907c8d989ca027a
   m_configObjects: {}
